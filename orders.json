@@ -1,0 +1,25 @@
+{
+    "orders": [
+        {
+            "item": "Toaster",
+            "quantity": "3",
+            "price": "1000",
+            "buyer": "Ivan",
+            "date": "2019-06-24"
+        },
+        {
+            "item": "PC",
+            "quantity": "1",
+            "price": "50000",
+            "buyer": "Alex",
+            "date": "2019-06-24"
+        },
+        {
+            "item": "Gum",
+            "quantity": "5",
+            "price": "24",
+            "buyer": "Olga",
+            "date": "2019-06-24"
+        }
+    ]
+}
