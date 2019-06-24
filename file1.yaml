@@ -1,0 +1,10 @@
+first_key:
+- one
+- two
+- three
+- four
+second_key: 100500
+third_key:
+  first_price: 100€
+  second_price: 200€
+  third_price: 300€
